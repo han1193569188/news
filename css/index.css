@@ -134,6 +134,7 @@ main{
     position: absolute;
     bottom:0.2rem;
     right: 0;
+    color: #666;
 }
 .from{
     float: left;
@@ -155,6 +156,7 @@ main{
 }
 .message{
     padding-top: .05rem;
+    color: #666;
 }
 #button{
     display: block;
